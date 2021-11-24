@@ -1,2 +1,2 @@
 executar o server:
-npm run dev
+npm run dev.
