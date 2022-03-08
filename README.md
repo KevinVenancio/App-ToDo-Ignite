@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="app_todo_gif" src=".public/gif_todo.gif" width="100%">
+  <img alt="app_todo_gif" src="./public/gif_todo.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
