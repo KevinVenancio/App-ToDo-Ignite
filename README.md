@@ -1,6 +1,6 @@
 # App-ToDo-Ignite
 <h1 align="center">
-  <img alt="app_to.do" title="To.do" src="./public/logo.svg" width="220px" />
+  <img alt="app_to.do" title="To.do" src="./public/logo.svg#vitrinedev" width="220px" />
 </h1>
 
 <p align="center">
